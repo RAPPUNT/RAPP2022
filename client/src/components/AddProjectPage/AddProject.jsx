@@ -39,6 +39,7 @@ class AddProject extends React.Component {
         userGuide: "",
         developerGuide: "",
         installationGuide: "",
+        date:new Date()
     };
 
     //update the react state according to the input that was changed
